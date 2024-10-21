@@ -39,10 +39,10 @@ Backend: Develop a server that processes the user input and sends it to the AI s
 
 ```
 
-You can use rust technology stack for this challenge. Ensure that the backend can send the request and handle the response from the AI service.
+You can use Rust technology stack for this challenge. Ensure that the backend can send the request and handle the response from the AI service.
 this is the url.  
 
-###endpoint for the simple finance app. 
+### endpoint for the simple finance app. 
 
 ``` https://icp-api-budget.fly.dev/budget-plan ```
 
