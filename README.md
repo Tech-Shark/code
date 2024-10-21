@@ -45,7 +45,7 @@ You can use any technology stack for this challenge. Ensure that the backend can
 
 ---
 
-### 2. Canister Code for Fetching Forex Data
+### 2. Simple frontend and Canister Code for Fetching Forex Data
 
 As part of this challenge, you will write a canister (smart contract) in Motoko or Rust to fetch data from a Forex API and display it. This requires integrating with any public Forex API to get live exchange rates (e.g., Fixer.io or Open Exchange Rates).
 
