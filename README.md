@@ -10,7 +10,6 @@ Your task is to build a simple decentralized finance application (Dapp) that all
 
 Frontend: Design a user interface where users can input their financial information, including:
 
-
 ```
 
 Purpose (e.g., "Save for a new car")
