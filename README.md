@@ -61,7 +61,7 @@ Make sure the Forex data is correctly fetched and displayed within the app.
 
 ### Additional Resources
 
-For more information on how to build canisters, you can refer to the DFINITY website here: [DFINITY] [https://internetcomputer.org/] - The Internet Computer.
+For more information on how to build canisters, you can refer to the DFINITY website here: DFINITY https://internetcomputer.org/ - The Internet Computer.
 
 
 ---
