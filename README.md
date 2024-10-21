@@ -15,16 +15,15 @@ Your task is to build a simple decentralized finance application (Dapp) that all
 Frontend: Design a user interface where users can input their financial information, including:
 
 ```
+{
 
-Purpose (e.g., "Save for a new car")
+  purpose : "string",
+  timeframe : "string",
+  totalAmount :  int,
+  totalIncomeMonthly :  int,
+  totalExpensesMonthly :  int
 
-Timeframe (e.g., "12 months")
-
-Total Amount (e.g., $10,000)
-
-Monthly Income (e.g., $2,500)
-
-Monthly Expenses (e.g., $2,000)
+}
 
 ```
 
