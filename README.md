@@ -1,3 +1,7 @@
+# Data
+
+### Developers Name 
+
 # Finance Dapp Coding Challenge
 
 Welcome to the coding challenge! We’re excited to see what you can create. This challenge is designed to evaluate your skills in building decentralized applications (Dapps), handling APIs, and integrating with AI services. The challenge consists of two main tasks:
