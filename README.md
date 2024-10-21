@@ -32,13 +32,11 @@ Backend: Develop a server that processes the user input and sends it to the AI s
 
 ```
 
-{
-  "purpose": "Save for a new car",
-  "timeframe": "12 months",
-  "total_amount": 10000,
-  "total_income_monthly": 2500,
-  "total_expenses_monthly": 2000
-}
+Purpose (e.g., "Save for a new car")
+Timeframe (e.g., "12 months")
+Total Amount (e.g., $10,000)
+Monthly Income (e.g., $2,500)
+Monthly Expenses (e.g., $2,000)
 
 ```
 
