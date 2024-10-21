@@ -40,7 +40,8 @@ Backend: Develop a server that processes the user input and sends it to the AI s
 ```
 
 You can use any technology stack for this challenge. Ensure that the backend can send the request and handle the response from the AI service.
-this is the url.  ``` https://icp-api-budget.fly.dev/ ```
+this is the url.  
+``` https://icp-api-budget.fly.dev/budget-plan ```
 
 
 ---
